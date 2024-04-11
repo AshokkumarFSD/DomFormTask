@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #b4acac;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #edeaea;
+}
+
+.user-form{
+    margin: 10px 20px 10px 20px;
+    padding: 10px;
+}
